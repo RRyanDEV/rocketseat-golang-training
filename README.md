@@ -18,7 +18,7 @@
     </p>
 </div>
 
-### Construído com
+### Built with
 
 [![GoLang][GoLang]][go-url]
 
@@ -27,6 +27,10 @@
 ## Release Notes
 
 </a>
+
+### v0.0.2-20250914
+
+- Update README.
 
 ### v0.0.1-20250914
 
